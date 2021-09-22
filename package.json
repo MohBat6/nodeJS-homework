@@ -1,0 +1,28 @@
+{
+  "name": "nodeJS-homework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index",
+    "start:dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MohBat6/nodeJS-homework.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MohBat6/nodeJS-homework/issues"
+  },
+  "homepage": "https://github.com/MohBat6/nodeJS-homework#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  },
+  "dependencies": {
+    "yargs": "^17.1.1"
+  }
+}
